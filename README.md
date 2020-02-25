@@ -3,7 +3,10 @@
 Buku Kecerdasan Buatan D4TI3A Angkatan 2017
 
 ## Penilaian
-Nilai anda bisa dicek [disini](https://docs.google.com/spreadsheets/d/1zQdfZP5UvV5X7fqC_Kzy5_sbEbO0iBgH3GIFZHYX1a4/edit?usp=sharing)
+
+***Ketika melakukan pull request pastikan tercentang hijau, tidak ada yang merah atau kuning.***
+
+Nilai anda bisa dicek [disini](https://github.com/divakrishnam)
 
 ## Cara Penggunaan
 
