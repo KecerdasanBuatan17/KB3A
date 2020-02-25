@@ -1,6 +1,6 @@
-main.toc
-main.synctex.gz
-main.pdf
+*.toc
+*.synctex.gz
+*.pdf
 
 .DS_Store
 ## Core latex/pdflatex auxiliary files:
