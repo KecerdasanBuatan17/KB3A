@@ -35,8 +35,8 @@ clf2 = pickle.loads(s) # variabel clf2 sebagai load(s)
 clf2.predict(X[0:1]) # untuk prediksi
 #%%
 from joblib import dump, load #memanggil dump, load melalui library joblib
-dump(clf, '1174021.joblib')   #Menyimpan model kedalam 1174021.joblib
-clf = load('1174021.joblib')   #Memanggil model 1174021
+dump(clf, '1174096.joblib')   #Menyimpan model kedalam 1174021.joblib
+clf = load('1174096.joblib')   #Memanggil model 1174021
 
 print(clf) #menampilkan hasil model clf
 
