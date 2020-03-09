@@ -4,6 +4,7 @@ Created on Mon Mar  2 21:19:13 2020
 
 @author: IkrimaNingrrum
 """
+1164013%3
 #%% Mencoba loading an example dataset
 from sklearn import datasets # Digunakan Untuk Memanggil class datasets dari library sklearn
 iris = datasets.load_iris()  # Menggunakan contoh datasets iris
