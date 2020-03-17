@@ -1,0 +1,174 @@
+\section{Dwi Septiani Tsaniyah 1174003}
+
+\subsection{Teori}
+\begin{enumerate}
+\item Jelaskan apa itu random forest, sertakan gambar ilustrasi buatan sendiri.
+Random forest adalah suatu model algoritma yang digunakan untuk klasifikasi data dalam jumlah yang besar , klasifikasi ini dilakukan melalui penggabungan suatu pohon dengan melakukan percobaan pada contoh data yang sudah dimiliki. Penggunaan pohon yang banyak akan mempengaruhi akurasi data yang akan didapatkan menjadi lebih baik. Penentuan dengan menggunakan klasifikasi random forest diambil dengan berdasarkan hasil voting dari pohon yang sudah terbentuk. Suatu pembangunan dilakukan dengan menggunakan metode Random Feature Selection untuk meminimalisir kesalahan pada data.
+Dibawah ini merupakan salah satu ilustrasi penggunaan Random Forest.
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/1174003/3/teori1.PNG}
+\caption{Random Forest}
+\label{contoh}
+\end{figure}
+
+\item Jelaskan cara membaca dataset khusus dan artikan makna setiap file dan isi field masing masing file.
+Dataset adalah objek yang merepresentasikan data dan relasinya di memory. Strukturnya mirip dengan data di database.
+\begin{itemize}
+\item
+Gunakan librari Pandas pada python untuk dapat membaca dataset dengan format text file.
+\item
+Setelah itu, buat variabel baru "dataset" yang berisikan perintah untuk membaca file csv.
+\item
+Memanggil Librari Panda untuk membaca dataset
+\item
+Membuat variabel "Dataset" yang berisikan pdreadcsv untuk membaca dataset. Pada contoh ini menggunakan txt tapi tetap bisa membaca datasetnya
+\end{itemize}
+
+\item Jelaskan apa itu Cross Validation.
+Cross-validation (CV) adalah metode statistik yang dapat digunakan untuk meningkatkan kinerja model atau algoritma di mana data dibagi menjadi dua bagian, yaitu proses pembelajaran data dan validasi data. Model atau algoritma dibor oleh subset pembelajaran dan divalidasi oleh subset validasi. Selanjutnya pemilihan jenis CV dapat disepakati pada ukuran dataset. Biasanya K-fold CV digunakan karena dapat mengurangi waktu perhitungan sambil tetap menghitung keakuratan estimasi.
+
+\item Jelaskan apa arti score 44 \% pada random forest, 27 \% pada decision tree dan 29 \% dari SVM.
+Itu merupakan presentase keakurasian prediksi yang dilakukan pada saat testing menggunakan label pada dataset yang digunakan. Score merupakan mendefinisikan aturan evaluasi model. Maka pada saat dijalankan akan muncuk persentase tersebut yang menunjukan keakurasian atau keberhasilan dari prediksi yang dilakukan. Jika menggunakan Random Forest maka hasilnya 40\% , jika menggunakan Decission Tree hasil prediksinya yaitu 27\% dan pada SVM 29\% .
+
+\item Jelaskan bagaimana cara membaca confusion matriks dan contohnya memakai gambar atau ilustrasi sendiri.
+Perthitungan Confusion Matriks dapat dilakukan sebagai berikut. Disini saya menggunakan data yang dibuat sendiri untuk menampilkan data aktual dan prediksi.
+\begin{itemize}
+\item
+Import librari Pandas, Matplotlib, dan Numpy.
+\item
+Buat variabel y actu yang berisikan data aktual.
+\item
+Buat variabel y pred berisikan data yang akan dijadikan sebagai prediksi.
+\item
+Buat variabel df confusion yang berisikan crosstab untuk membangun tabel tabulasi silang yang dapat menunjukkan frekuensi kemunculan kelompok data tertentu.
+\item
+Pada variabel df confusion definisikan lagi nama baris yaitu Actual dan kolomnya Predicted
+\item
+Kemudian definisikan suatu fungsi yang diberi nama plot confusion matrix yang berisikan pendefinisian confusion matrix dan juga akan di plotting.
+\lstinputlisting{src/1174003/3/1.py}
+\end{itemize}
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/1174003/3/1.PNG}
+\caption{Confusion Matriks}
+\label{contoh}
+\end{figure}
+
+\item Jelaskan apa itu voting pada random forest disertai dengan ilustrasi gambar sendiri.
+Voting yaitu suara untuk setiap target yang diprediksi pada saat melakukan Random Forest. Pertimbangkan target prediksi dengan voting tertinggi sebagai prediksi akhir dari algoritma random forest.
+\begin{itemize}
+\item
+Untuk menggunakan Voting pada Random Forest dapat dilihat code berikut. Disini saya mengilustrasikan voting untuk berbagai macam algoritma terutama Random Forest.
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/1174003/3/2.PNG}
+\caption{Voting}
+\label{contoh}
+\end{figure}
+\end{itemize}
+\end{enumerate}
+
+
+\subsection{Praktikum}
+\begin{enumerate}
+\item pandas 
+pada baris ke satu yaitu perintah mengimport library padas pada python atau anaconda kemudian di inisialisasikan menjadi karakter. selanjutnya ada sebuah array yang berisi a b c d. selanjutnya penggunaan array tipe series dan yang terakhir perintah print untuk menampilkan data pada karakter.
+\lstinputlisting{src/1174003/3/3.py}
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/1174003/3/3.PNG}
+\caption{hasil}
+\label{contoh}
+\end{figure}
+
+\item numpy
+Arti tiap baris codingan pada aplikasi sederhana numpy adalah sebagai berikut : pada baris ke satu yaitu mengimport numpy yang di inisialisasi menjadi np kemudian pada baris selanjutnya berisikan arange yang berarti membuat data yang berisi 12 dan ada reshape yang berfungsi merubah bentuk dari satu baris menjadi 2 baris data. Lalu yang terkhir ada perintah untuk print yaitu menampilkan data dari dika.
+\lstinputlisting{src/1174003/3/4.py}
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/1174003/3/4.PNG}
+\caption{hasil}
+\label{contoh}
+\end{figure}
+
+\item matplotlib
+Arti tiap baris aplikasi sederhana matplotlib pada baris ke satu yaitu memasukan library matplotlib.pyplot yang di definisikan menjadi plt kemudian plt.plot untuk menentukan grafik yang akan dibuat. lalu membuat variabel y dengan nama some number yang terakhir untuk menampilkan data pada sebuah grafik.
+\lstinputlisting{src/1174003/3/5.py}
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/1174003/3/5.PNG}
+\caption{hasil}
+\label{contoh}
+\end{figure}
+
+\item Random Forest
+Arti tiap baris hasil codingan random forest pada baris pertama random forest di import dari sklearn dengan ketentuan yaitu Nilai default untuk parameter yang mengontrol ukuran pohon (mis. Max\_depth, min\_samples\_leaf, dll.) Mengarah ke pohon yang tumbuh besar dan tidak di-unsuned yang berpotensi sangat besar pada beberapa set data. Untuk mengurangi konsumsi memori, kompleksitas dan ukuran pohon harus dikontrol dengan menetapkan nilai parameter tersebut.
+\lstinputlisting{src/1174003/3/6.py}
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/1174003/3/7.PNG}
+\caption{hasil}
+\label{contoh}
+\end{figure}
+
+\item Confusion Matrix
+arti codingan pada hasil tiap codingan confusion matrix pada baris pertama codingan tersebut mendeskripsikan atau mengimport confusion matrix dari sklearn kemudian dibuat variabel y\_true untuk nilai target ground truth (benar). y\_pred untuk Taksiran target seperti yang dikembalikan oleh classifier. lalu menampilkan kedua variabel.
+\lstinputlisting{src/1174003/3/7.py}
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/1174003/3/8.PNG}
+\caption{hasil}
+\label{contoh}
+\end{figure}
+
+\item SVM dan Decision Tree
+Seperti pengklasifikasi lainnya, DecisionTreeClassifier mengambil input dua array: array X, jarang atau padat, dengan ukuran n\_samples, n\_features memegang sampel pelatihan, dan array Y dari nilai integer, ukuran n\_samples,Atau, probabilitas setiap kelas dapat diprediksi. Seperti pengklasifikasi lainnya, SVC, NuSVC dan LinearSVC mengambil input dua array: array X ukuran n\_samples, n\_features memegang sampel pelatihan, dan array y label kelas (string atau bilangan bulat), ukuran n\_samples:
+\lstinputlisting{src/1174003/3/8.py}
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/1174003/3/9.PNG}
+\caption{hasil}
+\label{contoh}
+\end{figure}
+
+\item Cross Validation
+ digunakan untuk memeriksa akurasi dari ketepatan hasil pengolahan data tersebut maka akan didapat nilai rata-rata 60 persen dari hasil pengolahan data tersebut untuk lebih jelasnya dapat di lihat pada gambar pada codingan tersebut pada baris ke satu melakukan import library dari sklern kemudian pada baris selanjutnya mengisi nilai skor dengan nilai pada variabel lontong setelah hal tersebut dilakukan kemudian data tersebut di eksekusi. berikut merupakan hasil dari code tersebut dapat dilihat pada gambar.
+\lstinputlisting{src/1174003/3/9.py}
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/1174003/3/10.PNG}
+\caption{hasil}
+\label{contoh}
+\end{figure}
+
+\item program pengamatan
+arti dari hasil program pengamatan. perogram pengamatan dapat mengamati dari 3 aspek diatas yaitu svm, random, dan decision tree. Yang memiliki variabel X Y Z dan di tampilkan dalam bentuk grafik. 
+\lstinputlisting{src/1174003/3/10.py}
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/1174003/3/11.PNG}
+\caption{hasil}
+\label{contoh}
+\end{figure}
+\end{enumerate}
+
+
+\subsection{Penanganan Error}
+Screenshot error
+\begin{enumerate}
+\item  Untuk gambar screenshot error
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/1174003/3/error.PNG}
+\caption{hasil}
+\label{contoh}
+\end{figure}
+\end{enumerate}
+
+\subsection{Bukti Tidak Plagiat}
+\begin{figure}[H]
+\centering
+	\includegraphics[width=4cm]{figures/1174003/3/Plagiat.PNG}
+	\caption{Bukti Tidak Melakukan Plagiat Chapter 3}
+\end{figure}
