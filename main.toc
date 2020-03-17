@@ -1,0 +1,229 @@
+\contentsline {schapter}{Foreword}{xi}{chapter*.4}
+\contentsline {schapter}{Kata Pengantar}{xiii}{chapter*.5}
+\contentsline {schapter}{Acknowledgments}{xv}{chapter*.6}
+\contentsline {schapter}{Acronyms}{xvii}{chapter*.7}
+\contentsline {schapter}{Glossary}{xix}{chapter*.8}
+\contentsline {schapter}{List of Symbols}{xxi}{chapter*.9}
+\contentsline {schapter}{Introduction}{xxiii}{chapter*.10}
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxiii}{chapter*.10}
+\contentsline {chapter}{\numberline {1}Chapter 1}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}1174006 - Kadek Diva Krishna Murti}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Teori}{1}{subsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1.1}Definisi Kecerdasan Buatan}{1}{subsubsection.1.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1.2}Sejarah dan Perkembangan Kercerdasan Buatan}{2}{subsubsection.1.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.1.3}Supervised Learning}{4}{subsubsection.1.1.1.3}
+\contentsline {subsubsection}{\numberline {1.1.1.4}Klasifikasi}{5}{subsubsection.1.1.1.4}
+\contentsline {subsubsection}{\numberline {1.1.1.5}Regresi}{7}{subsubsection.1.1.1.5}
+\contentsline {subsubsection}{\numberline {1.1.1.6}Unsupervised Learning}{7}{subsubsection.1.1.1.6}
+\contentsline {subsubsection}{\numberline {1.1.1.7}Data Set}{8}{subsubsection.1.1.1.7}
+\contentsline {subsubsection}{\numberline {1.1.1.8}Training Set}{8}{subsubsection.1.1.1.8}
+\contentsline {subsubsection}{\numberline {1.1.1.9}Testing Set}{9}{subsubsection.1.1.1.9}
+\contentsline {subsection}{\numberline {1.1.2}Praktek}{9}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Penanganan Error}{13}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Bukti Tidak Plagiat}{15}{subsection.1.1.4}
+\contentsline {section}{\numberline {1.2}1174027 - Harun Ar - Rasyid}{16}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Teori}{16}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Praktek}{17}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Penanganan Error}{19}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Bukti Tidak Plagiat}{20}{subsection.1.2.4}
+\contentsline {section}{\numberline {1.3}1174031 - Muhammad Tomy Nur Maulidy}{20}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Teori}{20}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Praktek}{21}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Penanganan Error}{23}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Bukti Tidak Plagiat}{24}{subsection.1.3.4}
+\contentsline {section}{\numberline {1.4}1174003 - Dwi Septiani Tsaniyah}{25}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Teori}{25}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Praktek}{26}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Penanganan Error}{28}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}Bukti Tidak Plagiat}{29}{subsection.1.4.4}
+\contentsline {section}{\numberline {1.5}1174051 - Evietania Charis Sujadi}{29}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Teori}{29}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Instalasi}{30}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Penanganan Error}{32}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {1.5.4}Bukti Tidak Plagiat}{33}{subsection.1.5.4}
+\contentsline {section}{\numberline {1.6}1174021 - Muhammad Fahmi}{33}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Teori}{33}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Praktek}{35}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}Penanganan Error}{37}{subsection.1.6.3}
+\contentsline {subsection}{\numberline {1.6.4}Bukti Tidak Plagiat}{38}{subsection.1.6.4}
+\contentsline {section}{\numberline {1.7}1174096 - Nico Ekklesia Sembiring}{38}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Teori}{38}{subsection.1.7.1}
+\contentsline {subsection}{\numberline {1.7.2}Praktek}{40}{subsection.1.7.2}
+\contentsline {subsection}{\numberline {1.7.3}Penanganan Error}{42}{subsection.1.7.3}
+\contentsline {subsection}{\numberline {1.7.4}Bukti Tidak Plagiat}{43}{subsection.1.7.4}
+\contentsline {section}{\numberline {1.8}1174012 - Damara Benedikta }{43}{section.1.8}
+\contentsline {subsection}{\numberline {1.8.1}Teori}{43}{subsection.1.8.1}
+\contentsline {subsection}{\numberline {1.8.2}Praktek}{44}{subsection.1.8.2}
+\contentsline {subsection}{\numberline {1.8.3}Penanganan Error}{46}{subsection.1.8.3}
+\contentsline {subsection}{\numberline {1.8.4}Bukti Tidak Plagiat}{47}{subsection.1.8.4}
+\contentsline {section}{\numberline {1.9}1174095 - Muhammad Dzihan Al-Bannai}{47}{section.1.9}
+\contentsline {subsection}{\numberline {1.9.1}Teori}{47}{subsection.1.9.1}
+\contentsline {subsection}{\numberline {1.9.2}Praktek}{49}{subsection.1.9.2}
+\contentsline {subsection}{\numberline {1.9.3}Penanganan Error}{51}{subsection.1.9.3}
+\contentsline {subsection}{\numberline {1.9.4}Bukti Tidak Plagiat}{51}{subsection.1.9.4}
+\contentsline {section}{\numberline {1.10}1174009 - Dwi Yulianingsih}{52}{section.1.10}
+\contentsline {subsection}{\numberline {1.10.1}Teori}{52}{subsection.1.10.1}
+\contentsline {subsection}{\numberline {1.10.2}Praktek}{53}{subsection.1.10.2}
+\contentsline {subsection}{\numberline {1.10.3}Penanganan Error}{55}{subsection.1.10.3}
+\contentsline {subsection}{\numberline {1.10.4}Bukti Tidak Plagiat}{56}{subsection.1.10.4}
+\contentsline {section}{\numberline {1.11}1174008 - Arjun Yuda Firwanda}{56}{section.1.11}
+\contentsline {subsection}{\numberline {1.11.1}Teori}{56}{subsection.1.11.1}
+\contentsline {subsection}{\numberline {1.11.2}Praktek}{57}{subsection.1.11.2}
+\contentsline {subsection}{\numberline {1.11.3}Penanganan Error}{59}{subsection.1.11.3}
+\contentsline {subsection}{\numberline {1.11.4}Bukti Tidak Plagiat}{60}{subsection.1.11.4}
+\contentsline {section}{\numberline {1.12}1174005 - Oniwaldus Bere Mali}{60}{section.1.12}
+\contentsline {subsection}{\numberline {1.12.1}Teori}{60}{subsection.1.12.1}
+\contentsline {subsection}{\numberline {1.12.2}Praktek}{62}{subsection.1.12.2}
+\contentsline {subsection}{\numberline {1.12.3}Penanganan Error}{63}{subsection.1.12.3}
+\contentsline {subsection}{\numberline {1.12.4}Bukti Tidak Plagiat}{64}{subsection.1.12.4}
+\contentsline {section}{\numberline {1.13}1174026- Felix Setiawan Lase}{64}{section.1.13}
+\contentsline {subsection}{\numberline {1.13.1}Teori}{64}{subsection.1.13.1}
+\contentsline {subsection}{\numberline {1.13.2}Praktek}{66}{subsection.1.13.2}
+\contentsline {subsection}{\numberline {1.13.3}Penanganan Error}{68}{subsection.1.13.3}
+\contentsline {subsection}{\numberline {1.13.4}Bukti Tidak Plagiat}{68}{subsection.1.13.4}
+\contentsline {section}{\numberline {1.14}1174004 - Choirulanam}{69}{section.1.14}
+\contentsline {subsection}{\numberline {1.14.1}Teori}{69}{subsection.1.14.1}
+\contentsline {subsection}{\numberline {1.14.2}Praktek}{70}{subsection.1.14.2}
+\contentsline {subsection}{\numberline {1.14.3}Penanganan Error}{72}{subsection.1.14.3}
+\contentsline {subsection}{\numberline {1.14.4}Bukti Tidak Plagiat}{73}{subsection.1.14.4}
+\contentsline {section}{\numberline {1.15}1164013 - Ikrima Ningrumsari Mulyana}{73}{section.1.15}
+\contentsline {subsection}{\numberline {1.15.1}Teori}{73}{subsection.1.15.1}
+\contentsline {subsection}{\numberline {1.15.2}Praktek}{75}{subsection.1.15.2}
+\contentsline {subsection}{\numberline {1.15.3}Penanganan Error}{77}{subsection.1.15.3}
+\contentsline {subsection}{\numberline {1.15.4}Bukti Tidak Plagiat}{77}{subsection.1.15.4}
+\contentsline {section}{\numberline {1.16}Sri Rahayu - 1174015}{78}{section.1.16}
+\contentsline {subsection}{\numberline {1.16.1}Pemahaman Teori}{78}{subsection.1.16.1}
+\contentsline {subsection}{\numberline {1.16.2}Intalasi}{79}{subsection.1.16.2}
+\contentsline {subsection}{\numberline {1.16.3}Penanganan Error}{81}{subsection.1.16.3}
+\contentsline {subsection}{\numberline {1.16.4}Bukti Tidak Melakukan Plagiat}{82}{subsection.1.16.4}
+\contentsline {subsection}{\numberline {1.16.5}Link Youtube}{82}{subsection.1.16.5}
+\contentsline {section}{\numberline {1.17}1174002 - Habib Abdul Rasyid}{82}{section.1.17}
+\contentsline {subsection}{\numberline {1.17.1}Teori}{82}{subsection.1.17.1}
+\contentsline {subsubsection}{\numberline {1.17.1.1}Definisi Kecerdasan Buatan}{82}{subsubsection.1.17.1.1}
+\contentsline {subsection}{\numberline {1.17.2}Praktek}{84}{subsection.1.17.2}
+\contentsline {subsection}{\numberline {1.17.3}Penanganan Error}{89}{subsection.1.17.3}
+\contentsline {subsection}{\numberline {1.17.4}Bukti Tidak Plagiat}{89}{subsection.1.17.4}
+\contentsline {chapter}{\numberline {2}Chapter 2}{91}{chapter.2}
+\contentsline {section}{\numberline {2.1}1174006 - Kadek Diva Krishna Murti}{91}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Teori}{91}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Praktek}{99}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Penanganan Error}{107}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Bukti Tidak Plagiat}{109}{subsection.2.1.4}
+\contentsline {section}{\numberline {2.2}1174027 - Harun Ar - Rasyid}{109}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Teori}{109}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Praktek}{114}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Penanganan Error}{116}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Bukti Tidak Plagiat}{117}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}1174012 - Damara Benedikta}{117}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Teori}{117}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Praktek}{122}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Penanganan Error}{124}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Bukti Tidak Plagiat}{125}{subsection.2.3.4}
+\contentsline {section}{\numberline {2.4}1174021 - Muhammad Fahmi}{125}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Teori}{125}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Praktek}{130}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Penanganan Error}{136}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Bukti Tidak Plagiat}{138}{subsection.2.4.4}
+\contentsline {section}{\numberline {2.5}1174031 - Muhammad Tomy Nur Maulidy}{138}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Teori}{138}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Praktek}{143}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Penanganan Error}{144}{subsection.2.5.3}
+\contentsline {subsection}{\numberline {2.5.4}Bukti Tidak Plagiat}{146}{subsection.2.5.4}
+\contentsline {section}{\numberline {2.6}1174051 - Evietania Charis Sujadi}{146}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Teori}{146}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Praktek}{151}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Penanganan Error}{152}{subsection.2.6.3}
+\contentsline {subsection}{\numberline {2.6.4}Bukti Tidak Plagiat}{153}{subsection.2.6.4}
+\contentsline {section}{\numberline {2.7}1174095 - Muhammad Dzihan Al-Banna}{154}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Teori}{154}{subsection.2.7.1}
+\contentsline {subsection}{\numberline {2.7.2}Praktek}{158}{subsection.2.7.2}
+\contentsline {subsection}{\numberline {2.7.3}Penanganan Error}{165}{subsection.2.7.3}
+\contentsline {subsection}{\numberline {2.7.4}Bukti Tidak Plagiat}{166}{subsection.2.7.4}
+\contentsline {section}{\numberline {2.8}1174026 - Felix Setiawan Lase}{166}{section.2.8}
+\contentsline {subsection}{\numberline {2.8.1}Teori}{166}{subsection.2.8.1}
+\contentsline {subsection}{\numberline {2.8.2}Praktek}{171}{subsection.2.8.2}
+\contentsline {subsection}{\numberline {2.8.3}Penanganan Error}{172}{subsection.2.8.3}
+\contentsline {subsection}{\numberline {2.8.4}Bukti Tidak Plagiat}{174}{subsection.2.8.4}
+\contentsline {section}{\numberline {2.9}1174008 - Arjun Yuda FIrwanda}{174}{section.2.9}
+\contentsline {subsection}{\numberline {2.9.1}Teori}{174}{subsection.2.9.1}
+\contentsline {subsection}{\numberline {2.9.2}Praktek}{178}{subsection.2.9.2}
+\contentsline {subsection}{\numberline {2.9.3}Penanganan Error}{185}{subsection.2.9.3}
+\contentsline {subsection}{\numberline {2.9.4}Bukti Tidak Plagiat}{186}{subsection.2.9.4}
+\contentsline {section}{\numberline {2.10}1174017 - Muh. Rifky Prananda}{186}{section.2.10}
+\contentsline {subsection}{\numberline {2.10.1}Teori}{186}{subsection.2.10.1}
+\contentsline {subsection}{\numberline {2.10.2}Praktek}{190}{subsection.2.10.2}
+\contentsline {subsection}{\numberline {2.10.3}Penanganan Error}{197}{subsection.2.10.3}
+\contentsline {subsection}{\numberline {2.10.4}Bukti Tidak Plagiat}{198}{subsection.2.10.4}
+\contentsline {section}{\numberline {2.11}1164013 - Ikrima Ningrumsari Mulyana}{198}{section.2.11}
+\contentsline {subsection}{\numberline {2.11.1}Teori}{198}{subsection.2.11.1}
+\contentsline {subsection}{\numberline {2.11.2}Praktek}{203}{subsection.2.11.2}
+\contentsline {subsection}{\numberline {2.11.3}Penanganan Error}{204}{subsection.2.11.3}
+\contentsline {subsection}{\numberline {2.11.4}Bukti Tidak Plagiat}{205}{subsection.2.11.4}
+\contentsline {section}{\numberline {2.12}1174096 - Nico Ekklesia Sembiring}{205}{section.2.12}
+\contentsline {subsection}{\numberline {2.12.1}Teori}{205}{subsection.2.12.1}
+\contentsline {subsection}{\numberline {2.12.2}Praktek}{210}{subsection.2.12.2}
+\contentsline {subsection}{\numberline {2.12.3}Penanganan Error}{217}{subsection.2.12.3}
+\contentsline {subsection}{\numberline {2.12.4}Bukti Tidak Plagiat}{218}{subsection.2.12.4}
+\contentsline {section}{\numberline {2.13}1174002 - Habib Abdul Rasyid}{218}{section.2.13}
+\contentsline {subsection}{\numberline {2.13.1}Teori}{218}{subsection.2.13.1}
+\contentsline {subsection}{\numberline {2.13.2}Praktek}{222}{subsection.2.13.2}
+\contentsline {subsection}{\numberline {2.13.3}Penanganan Error}{227}{subsection.2.13.3}
+\contentsline {subsection}{\numberline {2.13.4}Bukti Tidak Plagiat}{228}{subsection.2.13.4}
+\contentsline {section}{\numberline {2.14}1174005 - Oniwaldus Bere Mali}{228}{section.2.14}
+\contentsline {subsection}{\numberline {2.14.1}Teori}{228}{subsection.2.14.1}
+\contentsline {subsection}{\numberline {2.14.2}Praktek}{233}{subsection.2.14.2}
+\contentsline {subsection}{\numberline {2.14.3}Penanganan Error}{239}{subsection.2.14.3}
+\contentsline {subsection}{\numberline {2.14.4}Bukti Tidak Plagiat}{241}{subsection.2.14.4}
+\contentsline {section}{\numberline {2.15}1174003 - Dwi Septiani Tsaniyah}{241}{section.2.15}
+\contentsline {subsection}{\numberline {2.15.1}Teori}{241}{subsection.2.15.1}
+\contentsline {subsection}{\numberline {2.15.2}Praktek}{246}{subsection.2.15.2}
+\contentsline {subsection}{\numberline {2.15.3}Penanganan Error}{248}{subsection.2.15.3}
+\contentsline {subsection}{\numberline {2.15.4}Bukti Tidak Plagiat}{249}{subsection.2.15.4}
+\contentsline {section}{\numberline {2.16}1174015 - Sri rahayu}{249}{section.2.16}
+\contentsline {subsection}{\numberline {2.16.1}Teori}{249}{subsection.2.16.1}
+\contentsline {subsection}{\numberline {2.16.2}Praktek}{254}{subsection.2.16.2}
+\contentsline {subsection}{\numberline {2.16.3}Penanganan Error}{260}{subsection.2.16.3}
+\contentsline {subsection}{\numberline {2.16.4}Bukti Tidak Plagiat}{261}{subsection.2.16.4}
+\contentsline {chapter}{\numberline {3}Chapter 3}{263}{chapter.3}
+\contentsline {section}{\numberline {3.1}1174006 - Kadek Diva Krishna Murti}{263}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Teori}{264}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Praktek}{264}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Penanganan Error}{264}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Bukti Tidak Plagiat}{264}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}1174021 - Muhammad Fahmi}{264}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Soal Teori}{264}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Praktek Program}{267}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Penanganan Error}{281}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Bukti Tidak Plagiat}{281}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Muhammad Tomy 1174031}{282}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Teori}{282}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Praktikum}{285}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Penanganan Error}{290}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}1174005 - Oniwaldus Bere Mali}{291}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Soal Teori}{291}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Praktek Program}{293}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Penanganan Error}{307}{subsection.3.4.3}
+\contentsline {chapter}{\numberline {4}Chapter 4}{309}{chapter.4}
+\contentsline {section}{\numberline {4.1}1174006 - Kadek Diva Krishna Murti}{309}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Teori}{310}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Praktek}{310}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Penanganan Error}{310}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Bukti Tidak Plagiat}{310}{subsection.4.1.4}
+\contentsline {chapter}{\numberline {5}Chapter 5}{311}{chapter.5}
+\contentsline {section}{\numberline {5.1}1174006 - Kadek Diva Krishna Murti}{311}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Teori}{312}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Praktek}{312}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Penanganan Error}{312}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Bukti Tidak Plagiat}{312}{subsection.5.1.4}
+\contentsline {chapter}{\numberline {6}Chapter 6}{313}{chapter.6}
+\contentsline {section}{\numberline {6.1}1174006 - Kadek Diva Krishna Murti}{313}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Teori}{314}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Praktek}{314}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Penanganan Error}{314}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Bukti Tidak Plagiat}{314}{subsection.6.1.4}
+\contentsline {chapter}{\numberline {7}Chapter 7}{315}{chapter.7}
+\contentsline {section}{\numberline {7.1}1174006 - Kadek Diva Krishna Murti}{315}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Teori}{316}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Praktek}{316}{subsection.7.1.2}
+\contentsline {subsection}{\numberline {7.1.3}Penanganan Error}{316}{subsection.7.1.3}
+\contentsline {subsection}{\numberline {7.1.4}Bukti Tidak Plagiat}{316}{subsection.7.1.4}
