@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2019.10.12)  24 MAR 2020 14:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2019.10.12)  24 MAR 2020 16:57
 entering extended mode
 **./main.tex
 (main.tex
@@ -64,37 +64,38 @@ Writing index file main.idx
 \chapheight=\dimen112
 \authorskip=\dimen113
 )
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.s
-ty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
+.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
-"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
+ty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.s
-ty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
+.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphi
-cs.cfg"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
+hics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex
-.def"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
+ex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.s
-ty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
+.sty"
 \lst@mode=\count106
 \lst@gtempboxa=\box26
 \lst@token=\toks15
@@ -108,20 +109,20 @@ ty"
 \lst@lineno=\count111
 \lst@maxwidth=\dimen119
 
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.st
-y"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.
+sty"
 File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
 \c@lstnumber=\count112
 \lst@skipnumbers=\count113
 \lst@framebox=\box27
 )
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.c
-fg"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
+.cfg"
 File: listings.cfg 2019/09/10 1.8c listings configuration
 ))
 Package: listings 2019/09/10 1.8c (Carsten Heinz)
 
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count114
 \float@exts=\toks16
@@ -129,17 +130,17 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks17
 \@floatcapt=\box29
 )
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.s
-ty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref
+.sty"
 Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
 
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-h
-yperref.sty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
+-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-g
-eneric.sty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
+-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -178,12 +179,12 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.s
-ty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
+.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.st
-y"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.
+sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 
 
@@ -191,22 +192,22 @@ Package auxhook Warning: Cannot patch \document,
 (auxhook)                using \AtBeginDocument instead.
 
 )
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.
-sty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
+s.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen120
 \Hy@linkcounter=\count115
 \Hy@pagecounter=\count116
 
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
-"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.d
+ef"
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count117
 
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.c
-fg"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref
+.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 4383.
@@ -218,7 +219,7 @@ Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
 \c@Hy@tempcnt=\count118
- ("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+ ("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -242,21 +243,22 @@ LaTeX Info: Redefining \pageref on input line 6443.
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.de
-f"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.
+def"
 File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
 \Fld@listcount=\count123
 \c@bookmark@seq@number=\count124
 
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilec
-heck.sty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfil
+echeck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip46
 )
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty
+"
 Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -270,8 +272,7 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             Family '?' is the default used for unknown fonts.
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
-
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+ ("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )
 LaTeX Info: Redefining \oldstylenums on input line 334.
@@ -338,20 +339,21 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\was\gensymb.sty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\was\gensymb.sty"
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.st
+y"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.
-cfg"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
+r.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.s
-ty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1
+.sty"
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 ) (w-bookps.sty
 
@@ -368,7 +370,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 126.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 126.
- (main.aux)
+ (main.aux
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 131.
@@ -388,19 +403,18 @@ LaTeX Font Info:    ... okay on input line 131.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 131.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 131.
 
-
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+ ("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 131.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 131.
 
-
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+ ("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd
+"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pd
-f.mkii"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-
+pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count125
 \scratchdimen=\dimen124
@@ -414,12 +428,12 @@ f.mkii"
 \makeMPintoPDFobject=\count130
 \everyMPtoPDFconversion=\toks19
 )
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-b
-ase.sty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
-"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
+ty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -433,12 +447,12 @@ G,.JBIG2,.JB2,.eps]
 \AtBeginShipoutBox=\box32
 Package hyperref Info: Link coloring ON on input line 131.
 
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.st
-y"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.
+sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitle
-string.sty"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettit
+lestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count132
@@ -463,15 +477,16 @@ Package gensymb Info: Using \textohm for \ohm on input line 131.
 Package gensymb Info: Using \textmu for \micro on input line 131.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 150.
- [1{C:/Users/USER/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+ [1{C:/Users/Sujadi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 152.
-<kreatiflogo.png, id=76, 437.635pt x 207.77625pt>
+<kreatiflogo.png, id=88, 437.635pt x 207.77625pt>
 File: kreatiflogo.png Graphic file (type png)
 <use kreatiflogo.png>
 Package pdftex.def Info: kreatiflogo.png  used on input line 152.
 (pdftex.def)             Requested size: 122.85876pt x 58.32912pt.
- [3 <./kreatiflogo.png>] (info/copyrightpage.tex)
+ [3 <./kreatiflogo.png>]
+(info/copyrightpage.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 157--157
 
  []
@@ -539,10 +554,9 @@ Package hyperref Warning: bookmark level for unknown schapter defaults to 0.
 LaTeX Font Info:    Try loading font information for TS1+ptm on input line 189.
 
 
-("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
+("C:\Users\Sujadi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-[17] [18
+) [17] [18
 
 ] (info/glossary.tex) [19] [20
 
@@ -552,6 +566,12 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 (info/introduction.tex
 
 Package hyperref Warning: bookmark level for unknown ichapter defaults to 0.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+
+LaTeX Warning: Citation `awangga2018sampeu' on page xxiii undefined on input li
+ne 13.
 
 ) [23] [24
 
@@ -571,56 +591,205 @@ Bab 3.
 
 ]
 Bab 4.
-[7] [8
+(chapters/chapter4/1174051.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+<figures/1174051/4/1.png, id=252, 1084.05pt x 299.01712pt>
+File: figures/1174051/4/1.png Graphic file (type png)
+<use figures/1174051/4/1.png>
+Package pdftex.def Info: figures/1174051/4/1.png  used on input line 10.
+(pdftex.def)             Requested size: 216.80615pt x 59.80235pt.
+ [7 <./figures/1174051/4/1.png>]
+<figures/1174051/4/2.png, id=260, 594.87244pt x 371.28712pt>
+File: figures/1174051/4/2.png Graphic file (type png)
+<use figures/1174051/4/2.png>
+Package pdftex.def Info: figures/1174051/4/2.png  used on input line 20.
+(pdftex.def)             Requested size: 118.97238pt x 74.2561pt.
 
-]
+Overfull \hbox (1.23741pt too wide) in paragraph at lines 26--27
+\OT1/ptm/m/n/10 m maka muncul opsi pil-i-han mas-ter chep dan lainya yang be-ra
+walan m rekomen-
+ []
+
+<figures/1174051/4/3.PNG, id=261, 1028.34187pt x 522.45187pt>
+File: figures/1174051/4/3.PNG Graphic file (type png)
+<use figures/1174051/4/3.PNG>
+Package pdftex.def Info: figures/1174051/4/3.PNG  used on input line 30.
+(pdftex.def)             Requested size: 205.66473pt x 104.48851pt.
+
+Overfull \hbox (5.61635pt too wide) in paragraph at lines 36--37
+\OT1/ptm/m/n/10 kalimat-kalimat yang ter-pisah ke-mu-dian di pecah lagi men-jad
+i data dalam perkata
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[8 <./figures/1174051/4/2.png> <./figures/1174051/4/3.PNG>]
+<figures/1174051/4/4.PNG, id=273, 498.36188pt x 252.945pt>
+File: figures/1174051/4/4.PNG Graphic file (type png)
+<use figures/1174051/4/4.PNG>
+Package pdftex.def Info: figures/1174051/4/4.PNG  used on input line 43.
+(pdftex.def)             Requested size: 99.67061pt x 50.5881pt.
+<figures/1174051/4/5.PNG, id=274, 340.27126pt x 63.23625pt>
+File: figures/1174051/4/5.PNG Graphic file (type png)
+<use figures/1174051/4/5.PNG>
+Package pdftex.def Info: figures/1174051/4/5.PNG  used on input line 53.
+(pdftex.def)             Requested size: 68.05304pt x 12.64702pt.
+
+(src/1174051/4/praktek1.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [9 <./figures/1174051/4/4.PNG> <./figures/1174051/4/5.PNG>] (src/1174051/4/pra
+ktek1.py) (src/1174051/4/praktek3.py
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [10])
+<figures/1174051/4/6.PNG, id=347, 471.26062pt x 320.69812pt>
+File: figures/1174051/4/6.PNG Graphic file (type png)
+<use figures/1174051/4/6.PNG>
+Package pdftex.def Info: figures/1174051/4/6.PNG  used on input line 71.
+(pdftex.def)             Requested size: 94.25044pt x 64.13847pt.
+
+(src/1174051/4/praktek3.py)
+<figures/1174051/4/7.PNG, id=348, 469.00218pt x 150.5625pt>
+File: figures/1174051/4/7.PNG Graphic file (type png)
+<use figures/1174051/4/7.PNG>
+Package pdftex.def Info: figures/1174051/4/7.PNG  used on input line 79.
+(pdftex.def)             Requested size: 93.79877pt x 30.11195pt.
+ (src/1174051/4/praktek3.py)
+<figures/1174051/4/8.PNG, id=349, 330.48468pt x 93.34875pt>
+File: figures/1174051/4/8.PNG Graphic file (type png)
+<use figures/1174051/4/8.PNG>
+Package pdftex.def Info: figures/1174051/4/8.PNG  used on input line 87.
+(pdftex.def)             Requested size: 66.09576pt x 18.6694pt.
+
+(src/1174051/4/praktek3.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [11 <./figures/1174051/4/6.PNG> <./figures/1174051/4/7.PNG> <./figures/1174051
+/4/8.PNG>])
+<figures/1174051/4/9.PNG, id=380, 358.33875pt x 101.62968pt>
+File: figures/1174051/4/9.PNG Graphic file (type png)
+<use figures/1174051/4/9.PNG>
+Package pdftex.def Info: figures/1174051/4/9.PNG  used on input line 95.
+(pdftex.def)             Requested size: 71.66647pt x 20.32556pt.
+ (src/1174051/4/praktek3.py)
+<figures/1174051/4/10.PNG, id=381, 479.54156pt x 280.04625pt>
+File: figures/1174051/4/10.PNG Graphic file (type png)
+<use figures/1174051/4/10.PNG>
+Package pdftex.def Info: figures/1174051/4/10.PNG  used on input line 103.
+(pdftex.def)             Requested size: 95.9066pt x 56.00824pt.
+ (src/1174051/4/praktek3.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [12 <./figures/1174051/4/9.PNG> <./figures/1174051/4/10.PNG>])
+<figures/1174051/4/11.PNG, id=417, 427.5975pt x 316.93407pt>
+File: figures/1174051/4/11.PNG Graphic file (type png)
+<use figures/1174051/4/11.PNG>
+Package pdftex.def Info: figures/1174051/4/11.PNG  used on input line 111.
+(pdftex.def)             Requested size: 85.51797pt x 63.38568pt.
+<figures/1174051/4/12.PNG, id=418, 444.91219pt x 46.67438pt>
+File: figures/1174051/4/12.PNG Graphic file (type png)
+<use figures/1174051/4/12.PNG>
+Package pdftex.def Info: figures/1174051/4/12.PNG  used on input line 122.
+(pdftex.def)             Requested size: 444.91109pt x 46.67424pt.
+
+Overfull \hbox (108.91109pt too wide) in paragraph at lines 122--123
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[13 <./figures/1174051/4/11.PNG>]
+<figures/1174051/4/13.PNG, id=462, 277.78781pt x 57.21375pt>
+File: figures/1174051/4/13.PNG Graphic file (type png)
+<use figures/1174051/4/13.PNG>
+Package pdftex.def Info: figures/1174051/4/13.PNG  used on input line 132.
+(pdftex.def)             Requested size: 277.78711pt x 57.2136pt.
+)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14 <./figures/1174051/4/12.PNG> <./figures/1174051/4/13.PNG>]
 Bab 5.
-[9] [10
+[15
+
+] [16
 
 ]
 Bab 6.
-[11] [12
+[17] [18
 
 ]
 Bab 7.
-(main.bbl [13] [14
-
-]) [15] [16
+No file main.bbl.
+[19] [20
 
 ]
 No file main.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 343.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 343.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 344.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 344.
 (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 343.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 343.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 344.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 344.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 684E632FDA994ED335BA9947CCE7D0FF;785.
+(rerunfilecheck)             Checksum: 59E15C1C8FB2153D5A98414DFCD80C8C;992.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 7367 strings out of 493305
- 110136 string characters out of 3130236
- 385472 words of memory out of 3000000
- 10731 multiletter control sequences out of 15000+200000
- 62571 words of font info for 116 fonts, out of 3000000 for 9000
+ 7813 strings out of 493305
+ 116344 string characters out of 3129366
+ 492472 words of memory out of 3000000
+ 10962 multiletter control sequences out of 15000+200000
+ 69528 words of font info for 129 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,10n,47p,204b,398s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/USER/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
-<C:/Users/USER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmex10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmmi10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/USER/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/USER/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/USER/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users
-/USER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/U
-sers/USER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C
-:/Users/USER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pf
-b>
-Output written on main.pdf (41 pages, 155768 bytes).
+ 31i,11n,47p,545b,1760s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Sujadi/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.en
+c}<C:/Users/Sujadi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmex10.pfb><C:/Users/Sujadi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmmi10.pfb><C:/Users/Sujadi/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Sujadi/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Sujadi/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
+/Sujadi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb><C:/Users/Sujadi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic
+/uhvb8a.pfb><C:/Users/Sujadi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
+helvetic/uhvbo8a.pfb><C:/Users/Sujadi/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/urw/helvetic/uhvr8a.pfb><C:/Users/Sujadi/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Sujadi/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Sujadi/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Sujadi/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (45 pages, 1068728 bytes).
 PDF statistics:
- 330 PDF objects out of 1000 (max. 8388607)
- 62 named destinations out of 1000 (max. 500000)
- 134 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 594 PDF objects out of 1000 (max. 8388607)
+ 229 named destinations out of 1000 (max. 500000)
+ 223 words of extra memory for PDF output out of 10000 (max. 10000000)
 
