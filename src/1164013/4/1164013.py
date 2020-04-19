@@ -7,13 +7,13 @@ Created on Wed Mar 25 09:27:45 2020
 
 # In[soal 1]:
 #mengimport library pandas dan menamainya coco
-import pandas as kece
-#membuat variable bernama harun dan mengisinya dengan data dari dataset dummy yang telah dibuat
-harun = kece.read_csv("dummy.csv") 
+import pandas as sayang
+#membuat variable bernama harun dan mengisinya dengan data dari dataset mine yang telah dibuat
+aku = sayang.read_csv("mine.csv") 
 #untuk melihat 5 baris pertama dari data harun
-atas = harun.head() 
+atas = aku.head() 
 #untuk mengetahui berapa banyak baris data
-harun.shape 
+aku.shape 
 #menampilkan isi dari varibale c pada console
 print(atas)
 # In[soal 2]:

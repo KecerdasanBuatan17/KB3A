@@ -2,7 +2,7 @@
 """
 Created on Tue Apr  7 13:23:20 2020
 
-@author: Harun Ar - Rasyid
+@author: Ikrima
 """
 # In[1]: Soal Nomor 1
 
