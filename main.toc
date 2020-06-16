@@ -1,0 +1,47 @@
+\contentsline {schapter}{Foreword}{xi}{chapter*.4}
+\contentsline {schapter}{Kata Pengantar}{xiii}{chapter*.5}
+\contentsline {schapter}{Acknowledgments}{xv}{chapter*.6}
+\contentsline {schapter}{Acronyms}{xvii}{chapter*.7}
+\contentsline {schapter}{Glossary}{xix}{chapter*.8}
+\contentsline {schapter}{List of Symbols}{xxi}{chapter*.9}
+\contentsline {schapter}{Introduction}{xxiii}{chapter*.10}
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxiii}{chapter*.10}
+\contentsline {chapter}{\numberline {1}Chapter 1}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Chapter 2}{3}{chapter.2}
+\contentsline {chapter}{\numberline {3}Chapter 3}{5}{chapter.3}
+\contentsline {chapter}{\numberline {4}Chapter 4}{7}{chapter.4}
+\contentsline {chapter}{\numberline {5}Chapter 5}{9}{chapter.5}
+\contentsline {chapter}{\numberline {6}Chapter 6}{11}{chapter.6}
+\contentsline {chapter}{\numberline {7}Chapter 7}{13}{chapter.7}
+\contentsline {chapter}{\numberline {8}Chapter 8}{15}{chapter.8}
+\contentsline {section}{\numberline {8.1}1164013 - Ikrima Ningrum}{15}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Soal Teori}{15}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}Praktek Program}{19}{subsection.8.1.2}
+\contentsline {subsection}{\numberline {8.1.3}Penanganan Error}{29}{subsection.8.1.3}
+\contentsline {subsection}{\numberline {8.1.4}Bukti Tidak Plagiat}{30}{subsection.8.1.4}
+\contentsline {section}{\numberline {8.2}1174021 - Muhammad Fahmi}{30}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Soal Teori}{30}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Praktek Program}{34}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}Penanganan Error}{44}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.4}Bukti Tidak Plagiat}{45}{subsection.8.2.4}
+\contentsline {section}{\numberline {8.3}1174015 - Sri Rahayu}{45}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Soal Teori}{45}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Praktek Program}{49}{subsection.8.3.2}
+\contentsline {subsection}{\numberline {8.3.3}Penanganan Error}{59}{subsection.8.3.3}
+\contentsline {subsection}{\numberline {8.3.4}Bukti Tidak Plagiat}{59}{subsection.8.3.4}
+\contentsline {chapter}{\numberline {9}Chapter 9}{61}{chapter.9}
+\contentsline {section}{\numberline {9.1}1174008 - Arjun Yuda Firwanda}{61}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Teori}{61}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}Praktek}{65}{subsection.9.1.2}
+\contentsline {subsection}{\numberline {9.1.3}Penanganan Error}{70}{subsection.9.1.3}
+\contentsline {subsection}{\numberline {9.1.4}Bukti Tidak Plagiat}{70}{subsection.9.1.4}
+\contentsline {section}{\numberline {9.2}1174015 - Sri Rahayu}{70}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Teori}{70}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}Praktek}{74}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.3}Penanganan Error}{79}{subsection.9.2.3}
+\contentsline {subsection}{\numberline {9.2.4}Bukti Tidak Plagiat}{79}{subsection.9.2.4}
+\contentsline {chapter}{\numberline {10}Chapter 10}{81}{chapter.10}
+\contentsline {chapter}{\numberline {11}Chapter 11}{83}{chapter.11}
+\contentsline {chapter}{\numberline {12}Chapter 12}{85}{chapter.12}
+\contentsline {chapter}{\numberline {13}Chapter 13}{87}{chapter.13}
+\contentsline {chapter}{\numberline {14}Chapter 14}{89}{chapter.14}
