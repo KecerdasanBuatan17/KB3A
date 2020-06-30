@@ -14,32 +14,17 @@
 \contentsline {chapter}{\numberline {6}Chapter 6}{11}{chapter.6}
 \contentsline {chapter}{\numberline {7}Chapter 7}{13}{chapter.7}
 \contentsline {chapter}{\numberline {8}Chapter 8}{15}{chapter.8}
-\contentsline {section}{\numberline {8.1}1164013 - Ikrima Ningrum}{15}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Soal Teori}{15}{subsection.8.1.1}
-\contentsline {subsection}{\numberline {8.1.2}Praktek Program}{19}{subsection.8.1.2}
-\contentsline {subsection}{\numberline {8.1.3}Penanganan Error}{29}{subsection.8.1.3}
-\contentsline {subsection}{\numberline {8.1.4}Bukti Tidak Plagiat}{30}{subsection.8.1.4}
-\contentsline {section}{\numberline {8.2}1174005 - Oniwaldus Bere Mali}{30}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Soal Teori}{30}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Praktek Program}{34}{subsection.8.2.2}
-\contentsline {subsection}{\numberline {8.2.3}Penanganan Error}{44}{subsection.8.2.3}
-\contentsline {chapter}{\numberline {9}Chapter 9}{45}{chapter.9}
-\contentsline {section}{\numberline {9.1}1174096 - Nico Ekklesia Sembiring}{45}{section.9.1}
-\contentsline {subsection}{\numberline {9.1.1}Soal Teori}{45}{subsection.9.1.1}
-\contentsline {subsection}{\numberline {9.1.2}Praktek Program}{49}{subsection.9.1.2}
-\contentsline {subsection}{\numberline {9.1.3}Penanganan Error}{54}{subsection.9.1.3}
-\contentsline {subsection}{\numberline {9.1.4}Bukti Tidak Plagiat}{55}{subsection.9.1.4}
-\contentsline {section}{\numberline {9.2}1164013 - Ikrima Ningrumsari Mulyana}{55}{section.9.2}
-\contentsline {subsection}{\numberline {9.2.1}Teori}{55}{subsection.9.2.1}
-\contentsline {subsection}{\numberline {9.2.2}Praktek Program}{59}{subsection.9.2.2}
-\contentsline {subsection}{\numberline {9.2.3}Penanganan Error}{69}{subsection.9.2.3}
-\contentsline {subsection}{\numberline {9.2.4}Bukti Tidak Plagiat}{69}{subsection.9.2.4}
-\contentsline {section}{\numberline {9.3}1174005 - Oniwaldus Bere Mali}{69}{section.9.3}
-\contentsline {subsection}{\numberline {9.3.1}Soal Teori}{69}{subsection.9.3.1}
-\contentsline {subsection}{\numberline {9.3.2}Praktek Program}{73}{subsection.9.3.2}
-\contentsline {subsection}{\numberline {9.3.3}Penanganan Error}{83}{subsection.9.3.3}
-\contentsline {chapter}{\numberline {10}Chapter 10}{85}{chapter.10}
-\contentsline {chapter}{\numberline {11}Chapter 11}{87}{chapter.11}
-\contentsline {chapter}{\numberline {12}Chapter 12}{89}{chapter.12}
-\contentsline {chapter}{\numberline {13}Chapter 13}{91}{chapter.13}
-\contentsline {chapter}{\numberline {14}Chapter 14}{93}{chapter.14}
+\contentsline {section}{\numberline {8.1}Dwi Septiani Tsaniyah - 1174003}{15}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Teori}{15}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}Pemrograman}{20}{subsection.8.1.2}
+\contentsline {chapter}{\numberline {9}Chapter 9}{29}{chapter.9}
+\contentsline {section}{\numberline {9.1}Dwi Septiani Tsaniyah - 1174003}{29}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Teori}{29}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}Praktek}{33}{subsection.9.1.2}
+\contentsline {subsection}{\numberline {9.1.3}Penanganan Error}{38}{subsection.9.1.3}
+\contentsline {subsection}{\numberline {9.1.4}Bukti Tidak Plagiat}{38}{subsection.9.1.4}
+\contentsline {chapter}{\numberline {10}Chapter 10}{39}{chapter.10}
+\contentsline {chapter}{\numberline {11}Chapter 11}{41}{chapter.11}
+\contentsline {chapter}{\numberline {12}Chapter 12}{43}{chapter.12}
+\contentsline {chapter}{\numberline {13}Chapter 13}{45}{chapter.13}
+\contentsline {chapter}{\numberline {14}Chapter 14}{47}{chapter.14}
